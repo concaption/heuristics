@@ -5,6 +5,7 @@
         "vscode": {
             "extensions": [
                 "ms-python.python",
+                "ms-python.pylint",
                 "ms-toolsai.jupyter",
                 "github.copilot",
                 "github.copilot-chat",

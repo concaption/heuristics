@@ -1,4 +1,6 @@
-# template
+# greedy coin
+
+It uses click to build cli.
 
 ```
 python -m venv .venv
@@ -15,3 +17,13 @@ git commit -m "Initial Commit"
 git push
 ```
 
+```
+nano ~/.bashrc
+source .venv/bin/activate
+
+```
+
+```
+chmod +x main.py
+./main.py
+```
