@@ -5,8 +5,15 @@
         "vscode": {
             "extensions": [
                 "ms-python.python",
-                "ms-toolsai.jupyter"
-            ]
+                "ms-toolsai.jupyter",
+                "github.copilot",
+                "github.copilot-chat",
+                "github.copilot-labs",
+                "ahmadawais.shades-of-purple"
+            ],
+            "settings": {
+                "workbench.colorTheme": "Shades of Purple (Super Dark)"
+            }
         }
     }
 }
